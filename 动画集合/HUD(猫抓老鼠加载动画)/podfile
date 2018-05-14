@@ -1,0 +1,10 @@
+platform:ios, '8.0'
+
+targer "HUD" do
+
+use_frameworks!
+
+pod 'SCCatWaitingHUD', '~> 0.1.6'
+
+end
+
